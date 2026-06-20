@@ -87,7 +87,7 @@ export const demoProducts: Product[] = [
   makeDemoProduct({ id: 15, name: 'Hotwheel Card Holder', slug: 'hotwheel-card-holder', price: 500, image: 'hotwheel-card-holder-v2.png', description: 'Compact Hot Wheels card display holder.', stock: 30 }),
   makeDemoProduct({ id: 16, name: 'Customized Lithoplane Lamp', slug: 'customized-lithoplane-lamp', price: 3900, image: 'customized-lithoplane-lamp-v2.png', description: 'Custom lithoplane lamp made from your reference image.', productType: 'made_to_order', stock: 0 }),
   makeDemoProduct({ id: 17, name: 'Customized QR Codes', slug: 'customized-qr-codes', price: 400, image: 'customized-qr-codes-v2.png', description: 'Custom 3D-printed QR code signs, Rs. 400 each.', stock: 25 }),
-  makeDemoProduct({ id: 18, name: 'Sasuke Figure', slug: 'sasuke-figure', price: 6000, image: 'sasuke-figure-v3.png', description: 'Hand-painted anime action figure.', stock: 4 }),
+  makeDemoProduct({ id: 18, name: 'Sasuke Figure', slug: 'sasuke-figure', price: 6000, image: 'sasuke-figure.jpeg', description: 'Hand-painted anime action figure.', stock: 4 }),
   makeDemoProduct({ id: 19, name: 'Spiderman Bust', slug: 'spiderman-bust', price: 1200, image: 'spiderman-bust-v3.png', description: 'Compact superhero bust figure.', stock: 10 }),
   makeDemoProduct({ id: 20, name: 'Stich Minifigure', slug: 'stich-minifigure', price: 1200, image: 'stich-minifigure-v3.png', description: 'Cute hand-painted mini figure collectible.', stock: 12 }),
   makeDemoProduct({ id: 21, name: 'Hello Kitty Minifigure', slug: 'hello-kitty-minifigure', price: 1200, image: 'hello-kitty-minifigure-v3.png', description: 'Cute Hello Kitty-style mini figure.', stock: 12 }),
